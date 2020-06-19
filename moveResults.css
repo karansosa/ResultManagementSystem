@@ -1,0 +1,57 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+#navMenu {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: white;
+    background-color: darkblue;
+    width: 99%;
+    display: block;
+    height: 50px;
+    padding-left: 8px;
+}
+
+#changePasswordBtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    width: 12%;
+    height: 50px;
+    position: absolute;
+    right: 10%;
+}
+
+#logoutBtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+    height: 50px;
+    position: absolute;
+    right: 0;
+}
+
+#resultUpload{
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+    height: 50px;
+}
+
+#moveResultDiv{
+    margin: 15%;
+    width: 20%;
+    border: 1px solid white;
+    font-size: larger;
+    padding: 8px;
+}
